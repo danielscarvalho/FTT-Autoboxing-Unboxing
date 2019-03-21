@@ -1,5 +1,8 @@
 package ftt.ec;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /* Reference: Java Autoboxing Unboxing:
  * 
  * https://www.devmedia.com.br/autoboxing-e-unboxing-em-java/28620
